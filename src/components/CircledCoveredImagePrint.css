@@ -1,0 +1,53 @@
+.CircledCoveredImagePrint {
+  width: 969px;
+  height: 969px;
+  background: #00cdc2;
+  border-radius: 50%;
+  position: absolute;
+  margin: auto;
+  overflow: hidden;
+  margin-left: -60vw;
+  top: -50vh;
+  z-index: -1;
+}
+.CircledCoveredImagePrint img {
+  height: 100%;
+  width: 100%;
+  object-position: top;
+  object-fit: cover;
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+.download-button:hover ~ .CircledCoveredImagePrint > img {
+  opacity: 1;
+}
+.download-button {
+  margin-top: 15px;
+  font-size: 14px;
+  letter-spacing: 1.4px;
+  color: #00d5c9 !important;
+  text-decoration: none;
+  line-height: 17px;
+  text-transform: uppercase;
+  font-family: "usual", sans-serif;
+  border: 2px solid #00d5c9;
+  text-align: center;
+  border-radius: 40px;
+  width: 180px;
+  height: 54px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 500;
+  cursor: pointer;
+}
+.download-button:hover {
+  background-color: #00cdc2;
+  color: white !important;
+}
+.ButtonToUncover {
+  text-align: -webkit-center;
+}
+.ButtonToUncover a {
+  text-decoration: none;
+}

@@ -1,0 +1,147 @@
+body {
+  overflow-y: hidden;
+}
+.Section {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+.transition-inactive {
+  display: none;
+}
+
+.inner-content {
+  font-size: 20px;
+  font-family: "adelle-sans", sans-serif;
+  letter-spacing: 0;
+  color: #000;
+  line-height: 30px;
+}
+
+.transition-stay {
+  z-index: 998;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+.transition-active {
+  z-index: 999;
+  transition: transform 2s;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: white;
+}
+.transition-roll-up {
+  animation-name: rollup;
+  animation-duration: 1s;
+  animation-timing-function: cubic-bezier(0.61, 0.08, 0.64, 0.86);
+  margin-top: -100%;
+  position: absolute;
+  z-index: 1000;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: white;
+}
+
+@keyframes rollup {
+  from {
+    margin-top: 0;
+  }
+  to {
+    margin-top: -100%;
+  }
+}
+.transition-roll-down {
+  animation-name: rolldown;
+  animation-duration: 1s;
+  animation-timing-function: cubic-bezier(0.61, 0.08, 0.64, 0.86);
+  margin-top: 0;
+  position: absolute;
+  z-index: 1000;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: white;
+}
+@keyframes rolldown {
+  from {
+    margin-top: -100%;
+  }
+  to {
+    margin-top: 0;
+  }
+}
+
+.circle-bottom-1 {
+  width: 317px;
+  height: 317px;
+  background: #00cdc2;
+  border-radius: 50%;
+  bottom: -125px;
+  position: absolute;
+  margin: auto;
+  left: 0;
+  right: 0;
+  overflow: hidden;
+}
+.scroll-icon {
+  position: absolute;
+  bottom: 70px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+.scroll-desktop-icon {
+  width: 26px;
+}
+.scroll-text {
+  font-size: 14px;
+  line-height: 17px;
+  margin-top: 22px;
+  letter-spacing: 1.4px;
+  color: #fff;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-family: "usual", sans-serif;
+}
+.page-block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+  margin-top: -10%;
+}
+.info-table {
+  font-size: 19px;
+  font-family: "adelle-sans", sans-serif;
+  letter-spacing: 0;
+  color: #000;
+  font-weight: 500;
+  line-height: 20px;
+}
+.info-table tr td {
+  column-width: 180px;
+  text-align: right;
+}
+.info-table tr td:first-child {
+  column-width: 100px;
+  text-align: left;
+}
+
+.work-table {
+  font-size: 19px;
+  font-family: "adelle-sans", sans-serif;
+  letter-spacing: 0;
+  color: #000;
+  font-weight: 500;
+  line-height: 20px;
+}
+.work-table tbody tr td {
+  padding: 0px 15px;
+}
