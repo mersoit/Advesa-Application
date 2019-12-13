@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cd38d1e41ccfe6863b354b0541ad9e08",
+    "revision": "969d2cf782c636e9bd115df24543c263",
     "url": "/Advesa-Application/index.html"
   },
   {
-    "revision": "05695c300e42413125bd",
+    "revision": "5557dda14ddef539829c",
     "url": "/Advesa-Application/static/css/main.71405617.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Advesa-Application/static/js/2.d7722bcc.chunk.js"
   },
   {
-    "revision": "05695c300e42413125bd",
-    "url": "/Advesa-Application/static/js/main.55a9dbcf.chunk.js"
+    "revision": "5557dda14ddef539829c",
+    "url": "/Advesa-Application/static/js/main.04379972.chunk.js"
   },
   {
     "revision": "a33e50251fe11c0731db",
@@ -21,7 +21,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "433e5a0d31bc1271308f76acde98d739",
-    "url": "/Advesa-Application/static/media/CV-Nguyen-Phi-Son.433e5a0d.docx"
+    "url": "/Advesa-Application/static/media/CV-Nguyen-Phi-Son.433e5a0d.doc"
   },
   {
     "revision": "675873e36feca3e390be7fb49bc7913c",
