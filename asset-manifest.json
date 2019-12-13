@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/advesa-cv/static/css/main.fafc3e8a.chunk.css",
+    "main.js": "/advesa-cv/static/js/main.2e10fea3.chunk.js",
+    "main.js.map": "/advesa-cv/static/js/main.2e10fea3.chunk.js.map",
+    "runtime-main.js": "/advesa-cv/static/js/runtime-main.d453ff03.js",
+    "runtime-main.js.map": "/advesa-cv/static/js/runtime-main.d453ff03.js.map",
+    "static/js/2.3ad7952d.chunk.js": "/advesa-cv/static/js/2.3ad7952d.chunk.js",
+    "static/js/2.3ad7952d.chunk.js.map": "/advesa-cv/static/js/2.3ad7952d.chunk.js.map",
+    "index.html": "/advesa-cv/index.html",
+    "precache-manifest.b10916e592c5b30531b18f4d3c564c22.js": "/advesa-cv/precache-manifest.b10916e592c5b30531b18f4d3c564c22.js",
+    "service-worker.js": "/advesa-cv/service-worker.js",
+    "static/css/main.fafc3e8a.chunk.css.map": "/advesa-cv/static/css/main.fafc3e8a.chunk.css.map",
+    "static/media/CV-Nguyen-Phi-Son.docx": "/advesa-cv/static/media/CV-Nguyen-Phi-Son.433e5a0d.docx",
+    "static/media/reactreduxicon.jpeg": "/advesa-cv/static/media/reactreduxicon.675873e3.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d453ff03.js",
+    "static/js/2.3ad7952d.chunk.js",
+    "static/css/main.fafc3e8a.chunk.css",
+    "static/js/main.2e10fea3.chunk.js"
+  ]
+}
