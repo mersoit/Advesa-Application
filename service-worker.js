@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Advesa-Application/precache-manifest.16bedd0bd9d00aec606f3c3ae79c2c81.js"
+  "/Advesa-Application/precache-manifest.19cdf9a4862e92c8d32bc395c0f3c8f1.js"
 );
 
 self.addEventListener('message', (event) => {

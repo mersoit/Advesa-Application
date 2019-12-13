@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Advesa-Application/static/css/main.fafc3e8a.chunk.css",
+    "main.css": "/Advesa-Application/static/css/main.71405617.chunk.css",
     "main.js": "/Advesa-Application/static/js/main.55a9dbcf.chunk.js",
     "main.js.map": "/Advesa-Application/static/js/main.55a9dbcf.chunk.js.map",
     "runtime-main.js": "/Advesa-Application/static/js/runtime-main.bc24fbdf.js",
@@ -8,9 +8,9 @@
     "static/js/2.d7722bcc.chunk.js": "/Advesa-Application/static/js/2.d7722bcc.chunk.js",
     "static/js/2.d7722bcc.chunk.js.map": "/Advesa-Application/static/js/2.d7722bcc.chunk.js.map",
     "index.html": "/Advesa-Application/index.html",
-    "precache-manifest.16bedd0bd9d00aec606f3c3ae79c2c81.js": "/Advesa-Application/precache-manifest.16bedd0bd9d00aec606f3c3ae79c2c81.js",
+    "precache-manifest.19cdf9a4862e92c8d32bc395c0f3c8f1.js": "/Advesa-Application/precache-manifest.19cdf9a4862e92c8d32bc395c0f3c8f1.js",
     "service-worker.js": "/Advesa-Application/service-worker.js",
-    "static/css/main.fafc3e8a.chunk.css.map": "/Advesa-Application/static/css/main.fafc3e8a.chunk.css.map",
+    "static/css/main.71405617.chunk.css.map": "/Advesa-Application/static/css/main.71405617.chunk.css.map",
     "static/media/CV-Nguyen-Phi-Son.docx": "/Advesa-Application/static/media/CV-Nguyen-Phi-Son.433e5a0d.docx",
     "static/media/reactreduxicon.jpeg": "/Advesa-Application/static/media/reactreduxicon.675873e3.jpeg",
     "static/media/trying-to-get-a-job-face.jpg": "/Advesa-Application/static/media/trying-to-get-a-job-face.04a12e84.jpg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.bc24fbdf.js",
     "static/js/2.d7722bcc.chunk.js",
-    "static/css/main.fafc3e8a.chunk.css",
+    "static/css/main.71405617.chunk.css",
     "static/js/main.55a9dbcf.chunk.js"
   ]
 }
