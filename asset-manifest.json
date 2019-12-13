@@ -1,23 +1,24 @@
 {
   "files": {
     "main.css": "/Advesa-Application/static/css/main.fafc3e8a.chunk.css",
-    "main.js": "/Advesa-Application/static/js/main.1c68ea17.chunk.js",
-    "main.js.map": "/Advesa-Application/static/js/main.1c68ea17.chunk.js.map",
+    "main.js": "/Advesa-Application/static/js/main.55a9dbcf.chunk.js",
+    "main.js.map": "/Advesa-Application/static/js/main.55a9dbcf.chunk.js.map",
     "runtime-main.js": "/Advesa-Application/static/js/runtime-main.bc24fbdf.js",
     "runtime-main.js.map": "/Advesa-Application/static/js/runtime-main.bc24fbdf.js.map",
-    "static/js/2.3ad7952d.chunk.js": "/Advesa-Application/static/js/2.3ad7952d.chunk.js",
-    "static/js/2.3ad7952d.chunk.js.map": "/Advesa-Application/static/js/2.3ad7952d.chunk.js.map",
+    "static/js/2.d7722bcc.chunk.js": "/Advesa-Application/static/js/2.d7722bcc.chunk.js",
+    "static/js/2.d7722bcc.chunk.js.map": "/Advesa-Application/static/js/2.d7722bcc.chunk.js.map",
     "index.html": "/Advesa-Application/index.html",
-    "precache-manifest.86ecf7e13fe687135d13b7d3dd75ae1c.js": "/Advesa-Application/precache-manifest.86ecf7e13fe687135d13b7d3dd75ae1c.js",
+    "precache-manifest.16bedd0bd9d00aec606f3c3ae79c2c81.js": "/Advesa-Application/precache-manifest.16bedd0bd9d00aec606f3c3ae79c2c81.js",
     "service-worker.js": "/Advesa-Application/service-worker.js",
     "static/css/main.fafc3e8a.chunk.css.map": "/Advesa-Application/static/css/main.fafc3e8a.chunk.css.map",
     "static/media/CV-Nguyen-Phi-Son.docx": "/Advesa-Application/static/media/CV-Nguyen-Phi-Son.433e5a0d.docx",
-    "static/media/reactreduxicon.jpeg": "/Advesa-Application/static/media/reactreduxicon.675873e3.jpeg"
+    "static/media/reactreduxicon.jpeg": "/Advesa-Application/static/media/reactreduxicon.675873e3.jpeg",
+    "static/media/trying-to-get-a-job-face.jpg": "/Advesa-Application/static/media/trying-to-get-a-job-face.04a12e84.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.bc24fbdf.js",
-    "static/js/2.3ad7952d.chunk.js",
+    "static/js/2.d7722bcc.chunk.js",
     "static/css/main.fafc3e8a.chunk.css",
-    "static/js/main.1c68ea17.chunk.js"
+    "static/js/main.55a9dbcf.chunk.js"
   ]
 }

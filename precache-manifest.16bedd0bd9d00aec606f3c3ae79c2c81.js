@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0dc3f39926eb71ef0fe1b169d0a76dd8",
+    "revision": "8d27008c5c2f3e04d709fc2e0eba8d29",
     "url": "/Advesa-Application/index.html"
   },
   {
-    "revision": "d941fb7d26b6eca1c906",
+    "revision": "027e5275af15e466cb25",
     "url": "/Advesa-Application/static/css/main.fafc3e8a.chunk.css"
   },
   {
-    "revision": "df1f9262490aa5880775",
-    "url": "/Advesa-Application/static/js/2.3ad7952d.chunk.js"
+    "revision": "daf5da7a790aca662428",
+    "url": "/Advesa-Application/static/js/2.d7722bcc.chunk.js"
   },
   {
-    "revision": "d941fb7d26b6eca1c906",
-    "url": "/Advesa-Application/static/js/main.1c68ea17.chunk.js"
+    "revision": "027e5275af15e466cb25",
+    "url": "/Advesa-Application/static/js/main.55a9dbcf.chunk.js"
   },
   {
     "revision": "a33e50251fe11c0731db",
@@ -26,5 +26,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "675873e36feca3e390be7fb49bc7913c",
     "url": "/Advesa-Application/static/media/reactreduxicon.675873e3.jpeg"
+  },
+  {
+    "revision": "04a12e84cccc8f3f1037040db26f17d3",
+    "url": "/Advesa-Application/static/media/trying-to-get-a-job-face.04a12e84.jpg"
   }
 ]);
