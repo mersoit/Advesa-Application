@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+
 <meta charset="utf-8">
 <title>Moto Free Bootstrap Theme | webthemez</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -19,7 +19,7 @@
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-</head>
+
 <body>
 <div id="wrapper">
 	<!-- start header -->
