@@ -1823,3 +1823,7 @@ display:none;}
     max-width: none;
 }
 
+@media (max-width: 767px){
+.callaction.container {
+    width: auto;
+}}
