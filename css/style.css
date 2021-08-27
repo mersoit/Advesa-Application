@@ -1675,6 +1675,7 @@ max-width:100%;
 	.navbar-collapse.collapse  {
 		border: none;
 		overflow: hidden;
+		display: block;
 	}
 
 	
