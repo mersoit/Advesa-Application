@@ -1,4 +1,4 @@
-/*
+
 Author URI: http://webthemez.com/
 Note: 
 Licence under Creative Commons Attribution 3.0 
@@ -11,6 +11,7 @@ Do not remove the back-link in this web template
 h1 {
   display: none;
 }
+
 body {
 	font-family:'Open Sans', Arial, sans-serif;
 	font-size:14px;
@@ -1817,3 +1818,6 @@ transform: rotate(10deg);
 }
 h1 {
 display:none;}
+.container-lg {
+    max-width: none;
+}
