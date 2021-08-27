@@ -1824,6 +1824,7 @@ display:none;}
 }
 
 @media (max-width: 767px){
-.callaction.container {
+section.callaction.container {
     width: auto;
-}}
+}
+}
