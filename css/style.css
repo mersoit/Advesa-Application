@@ -1821,3 +1821,8 @@ display:none;}
 .container-lg {
     max-width: none;
 }
+
+@media (max-width: 767px)
+.navbar-collapse.collapse {
+    display: block;
+}
