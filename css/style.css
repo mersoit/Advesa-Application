@@ -1825,5 +1825,5 @@ display:none;}
 
 @media (max-width: 767px)
 .callaction.container {
-    display: auto;
+    width: auto;
 }
